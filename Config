@@ -1,0 +1,8 @@
+TOKEN = "6706886717:AAG7W9G64DBje20IxgqV3jGkDKahP-dPPg8"
+
+currency = {
+    'btc': 'BTC',
+    'usd': 'USD',
+    'euro': 'EUR',
+    'rub': 'RUB'
+}
