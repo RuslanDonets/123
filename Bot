@@ -4,7 +4,6 @@ from config import currency, TOKEN
 from extensions import ConversionException, CryptoConverter
 
 bot = telebot.TeleBot(TOKEN)
-emo = emoji.emojize
 
 
 @bot.message_handler(commands=['help', 'start'])
